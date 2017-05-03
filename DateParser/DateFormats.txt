@@ -1,0 +1,87 @@
+MM/dd/yyyy hh:mm:ss a
+MM/dd/yyyy hh:mm a
+MM/dd/yyyy hh:mma
+MM/dd/yyyy hh:mm:ss
+MM/dd/yyyy HH:mm:ss
+MM/dd/yyyy HH:mm
+MM-dd-yy hh:mm a
+MM-dd-yyyy hh:mm a
+MM/dd/yyyy
+MM-dd-yy HH:mm
+MM-dd-yyyy HH:mm
+dd-MM-yy HH:mm
+dd-MM-yyyy HH:mm
+dd-MM-yy hh:mm a
+dd-MM-yyyy hh:mm a
+dd/MM/yyyy HH:mm
+dd/MM/yyyy hh:mma
+dd/MM/yyyy hh:mm:ss a
+dd/MM/yyyy hh:mm a
+dd-MM-yyyy hh:mm
+dd/MM/yyyy hh:mm:ss
+dd/MM/yyyy HH:mm:ss
+dd MMMM yyyy HH:mm
+yyyy-MM-dd hh:mm a
+EEEE, dd MMMM yyyy 'at' HH:mm
+EEE, dd MMM yyyy HH:mm:ss z
+EEE, dd MMM yyyy HH:mm
+EEEE, MMMM dd, yyyy
+EEEE, MMM dd, yyyy hh:mm:ss a
+E, dd MMM yyyy hh:mm:ss Z
+E, MMM dd, yyyy 'at' hh:mm a
+E, dd MMM yyy hh:mm:ss z (Z)
+dd MMM yyy hh:mm
+E MMM dd hh:mm:ss Z yyyy
+EEEE, MMMM dd, yyyy hh:mm a
+MMM dd, yyyy hh:mm a
+E, dd-MMM-yyyy hh:mm a
+MM/dd/yyyy hh:mm dd/MM/yyyy hh:mm
+MMMM dd, yyyy 'at' hh:mm:ss a Z
+dd MMM yyy 'at' hh:mm:ss a Z
+EEEE, MMM dd, yyyy
+dd MMMM yyyy 'at' hh:mm:ss Z
+EEEE dd MMMM yyyy
+dd-MM-yyyy a hh:mm
+EEEE, dd MMMM, yyyy hh:mm:ss a
+dd MMMM, yyyy hh:mm a
+dd-MM-yy
+dd-MMM-yyyy
+EEEE, dd MMMM yyyy hh:mm a
+dd MMM yyyy
+EEEE, dd MMMM yyyy 'at' hh:mm
+dd/MM
+EEE, dd MMM yyyy hh:mm
+dd MMM, yyyy
+dd'th' MMM, yyyy
+dd'st' MMM, yyyy
+dd'nd' MMM, yyyy
+dd'rd' MMM, yyyy
+dd'th' MMMM, yyyy
+dd'st' MMMM, yyyy
+dd'nd' MMMM, yyyy
+dd'rd' MMMM, yyyy 
+dd'th'MMMM, yyyy
+dd'st'MMMM, yyyy
+dd'nd'MMMM, yyyy
+dd'rd'MMMM, yyyy
+MMMM dd, yyyy
+EEEE, MMMM dd, yyyy
+EEEE, MMMMdd, yyyy
+dd'th' MMMM yyyy
+dd'st' MMMM yyyy
+dd'nd' MMMM yyyy
+dd'rd' MMMM yyyy
+EEEE, dd'th' MMMM yyyy
+EEEE, dd'rd' MMMM yyyy
+EEEE, dd'st' MMMM yyyy
+EEEE, dd'nd' MMMM yyyy
+yyyy'?'MM'?'dd'?' hh:mm:ss Z
+'?'MM/'?'dd/'?'yyyy hh:mm a
+E MMM dd HH:mm:ss Z yy
+E, dd MMM yyyy HH:mm:ss Z (z)
+yyyy/mm/dd HH:mm
+yyy/dd/mm HH:mm
+EEEE, dd MMMM yyyy HH:mm
+EEEE, dd MMMM yyyy 'at' HH:mm
+dd'.' MMMM yyyy HH:mm
+'On' dd-MMM-yyyy hh:mm a
